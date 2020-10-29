@@ -41,7 +41,7 @@ st.markdown(
 <ul>
     <li>Historical Data: U.S. Energy Information Administration, Henry Hub Natural Gas Spot Price [DHHNGSP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/DHHNGSP, May 24, 2020.</li>
     <li>Futures Data: https://www.cmegroup.com/trading/energy/natural-gas/natural-gas.html</li>
-    <li><a href="https://www.linkedin.com/in/1artrodriguez/"</a>My LinkedIn</li>
+    <li><a href="https://www.linkedin.com/in/1artrodriguez/" target="_blank"</a>My LinkedIn</li>
 </ul>
 
 
